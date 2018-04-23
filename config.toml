@@ -1,0 +1,51 @@
+baseurl = "https://example.com/"
+languageCode = "en-US"
+title = "FLCA"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+theme = "hugo-sustain"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "flcalogo.png"
+  author = "FLCA"
+  description = "Family Law and Cannabis Alliance"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+  Email         = "info@flcalliance.org"
+  Twitter       = "flcalliance"
+
+## Main Menu
+[[menu.main]]
+  name = "About"
+  weight = 100
+  identifier = "about"
+  url = "/about/"
+[[menu.main]]
+  name = "Services"
+  identifier = "services"
+  weight = 200
+  url = "/services/"
+[[menu.main]]
+  name = "For Parents"
+  identifier = "parents"
+  weight = 300
+  url = "/parents/"
+  [[menu.main]]
+    name = "For Lawyers"
+    identifier = "lawyers"
+    weight = 400
+    url = "/lawyers/"
+    [[menu.main]]
+      name = "Donate"
+      identifier = "donate"
+      weight = 500
+      url = "/donate/"
