@@ -1,6 +1,6 @@
-baseurl = "https://example.com/"
+baseurl = "https://flca.netlify.com/"
 languageCode = "en-US"
-title = "Chris Turner"
+title = "FLCA"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
@@ -11,8 +11,8 @@ theme = "hugo-sustain"
   post = "/:year/:month/:day/:slug"
 
 [params]
-  avatar = "profile.png"
-  author = "Chris Turner"
+  avatar = "flcalogo.png"
+  author = "Family Law and Cannabis Alliance"
   description = "Describe your website"
 
   # Custom assets can be linked with their paths relative to static/
@@ -20,25 +20,41 @@ theme = "hugo-sustain"
   custom_js  = []
 
 [params.social]
-  Github        = "username"
   Email         = "email@example.com"
-  Twitter       = "username"
-  LinkedIn      = "username"
-  Stackoverflow = "username"
 
 ## Main Menu
 [[menu.main]]
-  name = "blog"
+  name = "Policy"
   weight = 100
-  identifier = "blog"
-  url = "/blog/"
+  identifier = "policy"
+  url = "/policy/"
 [[menu.main]]
-  name = "projects"
-  identifier = "projects"
+  name = "Legal Network"
+  identifier = "legal-network"
   weight = 200
-  url = "/projects/"
+  url = "/legal-network/"
 [[menu.main]]
-  name = "resume"
-  identifier = "resume"
+  name = "Media"
+  identifier = "media"
   weight = 300
-  url = "/resume/"
+  url = "/media/"
+[[menu.main]]
+  name = "Need help?"
+  identifier = "help"
+  weight = 400
+  url = "/help/"
+[[menu.main]]
+  name = "Writing"
+  identifier = "writing"
+  weight = 500
+  url = "/writing/"
+[[menu.main]]
+  name = "Links"
+  identifier = "links"
+  weight = 600
+  url = "/links/"
+[[menu.main]]
+  name = "Board"
+  identifier = "board"
+  weight = 700
+  url = "/board/"
