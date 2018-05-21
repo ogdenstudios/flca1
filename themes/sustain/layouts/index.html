@@ -1,0 +1,16 @@
+{{ partial "head" . }}
+  <body>
+    <div id="wrap">
+      {{ partial "header" . }}
+      <section id="about">
+        <div class="container">
+        <div class="avatar">
+          <img class="img-circle" src="{{ .Site.BaseURL }}img/{{ .Site.Params.avatar }}" alt="Responsive image">
+        </div>
+      Family Law & Cannabis Alliance (FLCA) is a clearinghouse for reliable local, state, and national information related to marijuana policy, Child Protective Services (CPS), and family court.  Particularly in an era when public opinion and policy regarding marijuana are rapidly evolving, we believe that it is wrong to punish parents who use cannabis medicinally or recreationally by exposing them to CPS investigations and temporary or permanent loss of custody of their children.  Marijuana use is not proof of poor parenting and should not be used to separate families or subject them to unnecessary state intervention.  {{ partial "social.html" . }}
+        </div>
+      </section>
+    </div>
+    {{ partial "footer" . }}
+  </body>
+</html>
