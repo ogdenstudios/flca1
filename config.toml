@@ -1,6 +1,6 @@
-baseurl = "https://flca1.ogdenstudios.xyz/"
+baseurl = "https://example.com/"
 languageCode = "en-US"
-title = "FLCA"
+title = "Chris Turner"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
@@ -11,41 +11,34 @@ theme = "hugo-sustain"
   post = "/:year/:month/:day/:slug"
 
 [params]
-  avatar = "flcalogo.png"
-  author = "FLCA"
-  description = "Family Law and Cannabis Alliance"
+  avatar = "profile.png"
+  author = "Chris Turner"
+  description = "Describe your website"
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
   custom_js  = []
 
 [params.social]
-  Email         = "info@flcalliance.org"
-  Twitter       = "flcalliance"
+  Github        = "username"
+  Email         = "email@example.com"
+  Twitter       = "username"
+  LinkedIn      = "username"
+  Stackoverflow = "username"
 
 ## Main Menu
 [[menu.main]]
-  name = "About"
+  name = "blog"
   weight = 100
-  identifier = "about"
-  url = "/about/"
+  identifier = "blog"
+  url = "/blog/"
 [[menu.main]]
-  name = "Services"
-  identifier = "services"
+  name = "projects"
+  identifier = "projects"
   weight = 200
-  url = "/services/"
+  url = "/projects/"
 [[menu.main]]
-  name = "For Parents"
-  identifier = "parents"
+  name = "resume"
+  identifier = "resume"
   weight = 300
-  url = "/parents/"
-  [[menu.main]]
-    name = "For Lawyers"
-    identifier = "lawyers"
-    weight = 400
-    url = "/lawyers/"
-    [[menu.main]]
-      name = "Donate"
-      identifier = "donate"
-      weight = 500
-      url = "/donate/"
+  url = "/resume/"

@@ -3,154 +3,109 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://flca1.ogdenstudios.xyz/projects/</loc>
+    <loc>https://example.com/content/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://flca1.ogdenstudios.xyz/blog/creating-a-new-theme/</loc>
+    <loc>https://example.com/content/blog/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://flca1.ogdenstudios.xyz/blog/goisforlovers/</loc>
+    <loc>https://example.com/content/blog/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://flca1.ogdenstudios.xyz/blog/hugoisforlovers/</loc>
+    <loc>https://example.com/content/blog/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://flca1.ogdenstudios.xyz/blog/migrate-from-jekyll/</loc>
+    <loc>https://example.com/content/blog/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://flca1.ogdenstudios.xyz/about/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://flca1.ogdenstudios.xyz/donate/donate/</loc>
-  </url>
-  
-  <url>
-    <loc>https://flca1.ogdenstudios.xyz/lawyers/lawyers/</loc>
-  </url>
-  
-  <url>
-    <loc>https://flca1.ogdenstudios.xyz/parents/parents/</loc>
-  </url>
-  
-  <url>
-    <loc>https://flca1.ogdenstudios.xyz/services/services/</loc>
-  </url>
-  
-  <url>
-    <loc>https://flca1.ogdenstudios.xyz/about/</loc>
+    <loc>https://example.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://flca1.ogdenstudios.xyz/blog/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://flca1.ogdenstudios.xyz/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://flca1.ogdenstudios.xyz/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://flca1.ogdenstudios.xyz/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://flca1.ogdenstudios.xyz/donate/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://flca1.ogdenstudios.xyz/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://flca1.ogdenstudios.xyz/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://flca1.ogdenstudios.xyz/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://flca1.ogdenstudios.xyz/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://flca1.ogdenstudios.xyz/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://flca1.ogdenstudios.xyz/lawyers/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://flca1.ogdenstudios.xyz/parents/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://flca1.ogdenstudios.xyz/tags/projects/</loc>
+    <loc>https://example.com/content/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://flca1.ogdenstudios.xyz/categories/projects/</loc>
+    <loc>https://example.com/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://flca1.ogdenstudios.xyz/services/</loc>
+    <loc>https://example.com/categories/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://flca1.ogdenstudios.xyz/tags/</loc>
+    <loc>https://example.com/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://flca1.ogdenstudios.xyz/tags/templates/</loc>
+    <loc>https://example.com/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://flca1.ogdenstudios.xyz/tags/themes/</loc>
+    <loc>https://example.com/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
