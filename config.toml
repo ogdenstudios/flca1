@@ -28,17 +28,37 @@ theme = "sustain"
 
 ## Main Menu
 [[menu.main]]
-  name = "blog"
+  name = "Policy"
   weight = 100
-  identifier = "blog"
-  url = "/blog/"
+  identifier = "policy"
+  url = "/policy/"
 [[menu.main]]
-  name = "projects"
-  identifier = "projects"
+  name = "Legal Resources"
+  identifier = "legal-resources"
   weight = 200
-  url = "/projects/"
+  url = "/legal-resources/"
 [[menu.main]]
-  name = "resume"
-  identifier = "resume"
+  name = "Media"
+  identifier = "media"
   weight = 300
-  url = "/resume/"
+  url = "/media/"
+[[menu.main]]
+  name = "Need Help?"
+  identifier = "help"
+  weight = 400
+  url = "/help/"
+[[menu.main]]
+  name = "Writing"
+  identifier = "writing"
+  weight = 500
+  url = "/writing/"
+[[menu.main]]
+  name = "Links"
+  identifier = "links"
+  weight = 600
+  url = "/links/"
+[[menu.main]]
+  name = "Board"
+  identifier = "board"
+  weight = 700
+  url = "/board/"
