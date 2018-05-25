@@ -1,8 +1,8 @@
 ---
 author: " "
 date: 2014-09-28
-linktitle: Need Help?
-title: Need Help?
+linktitle: Writing
+title: Writing
 highlight: true
 ---
 
